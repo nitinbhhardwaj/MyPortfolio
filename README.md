@@ -14,8 +14,8 @@ JavaScript
 
 
 🚀 Live Demo
-🔗 Deployed Link:
-Will share once after completing it
+🔗 Deployed Link:https://nitinbhhardwaj.github.io/MyPortfolio/
+
 🎯 Purpose
 This project was developed as part of my college portfolio work to demonstrate practical knowledge of front-end web development and version control using GitHub.
 📌 Future Improvements
